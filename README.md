@@ -11,6 +11,8 @@
   
 ## Projects
 | Project | What it does | Stack |
+| [resistor-calculator](https://github.com/[Kikey-Mechatronics_ke]/resistor-calculator) | Calculates resistor values from colour bands | Python |
+
 
 ## Skills
 Python (foundational) · Arduino (basics) · Tinkercad Circuits · GitHub
